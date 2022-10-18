@@ -49,6 +49,10 @@
     align-items: center;
 }
 
+.align-items-start {
+    align-items: flex-start;
+}
+
 .sticky-top {
     position: sticky;
     top: 0;
